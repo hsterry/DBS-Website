@@ -2,7 +2,7 @@ body {text-align: center;}
 body {background-color: 	rgb(195, 223, 255);}
 .container {
     position: relative;
-    text-align: center;
+    text-align: center, bottom;
     color: rgb(102, 153, 153);
 }
 
